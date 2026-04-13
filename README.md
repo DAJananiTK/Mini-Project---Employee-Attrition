@@ -27,4 +27,7 @@ Factors include employee demographics,compensation,training details and satisfac
 ## 📈 Outcome
 - Cleaned and structured dataset  
 - Interactive visualizations  
-- Clear insights on employee attrition  
+- Clear insights on employee attrition
+
+- ## Author
+- Janani T K
